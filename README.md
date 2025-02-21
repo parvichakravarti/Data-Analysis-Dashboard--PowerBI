@@ -1,7 +1,6 @@
 Objective: Store wants to create an annual report for 2025. So that, Shop Owner can understand their customers and grow more sales in 2026.
 
-Questions:
-1. Compare the sales and orders using single chart.
+Questions: 1. Compare the sales and orders using single chart.
 2. Which month got the highest sales and orders?
 3. Who purchased more men or women in 2025?
 4. What are different order status in 2025?
